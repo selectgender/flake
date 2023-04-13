@@ -23,6 +23,9 @@
       zstyle ':completion:*:*:*:*:descriptions' format '%F{green}-- %d --%f'
       zstyle ':completion:*:*:*:*:corrections' format '%F{yellow}!- %d (errors: %e) -!%f'
 
+      # just to make my life in git a bit easier
+      unset -v SSH_ASKPASS
+
       eval "$(starship init zsh)"
       krabby random
     '';
