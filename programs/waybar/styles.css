@@ -1,0 +1,16 @@
+* {
+  font-family: JetBrainsMono Nerd Font;
+  font-size: 12px;
+}
+
+/*
+window#waybar {
+  background-color: transparent;
+}
+*/
+
+#custom-hello-from-waybar,
+#pulseaudio,
+#clock {
+  padding: 0 10px;
+}
