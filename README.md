@@ -1,4 +1,4 @@
-# Sylvia's Nixos Config
+# Nixos Config
 Hello! I tried to make my config as intuitive as possible, if there was
 literally *anything* that was confusing to you.. then please file an
 issue immediately!
